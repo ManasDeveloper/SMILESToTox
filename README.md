@@ -35,3 +35,4 @@ This project is trained on the **Tox21 dataset** — a benchmark dataset of 12 t
 | ...               |       |       |
 
 
+Live Project : https://smiles2tox.streamlit.app/
