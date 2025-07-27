@@ -1,0 +1,9 @@
+torch
+pandas
+numpy 
+matplotlib
+streamlit
+deepchem
+scikit-learn
+rdkit 
+pandas
